@@ -21,7 +21,7 @@ The number following each link indicates how many of the related bugs we discove
 - **root**: [issue #551](https://github.com/root-project/cling/issues/551#event-18439880924)   (2 bugs reported, 2 accepted)
 - **ZenEngine**: [issue #1](https://github.com/proton991/ZenEngine/issues/1#event-18826218992)  (5 bugs reported)
 - **openssl-cmake**: [issue #23](https://github.com/viaduck/openssl-cmake/issues/23#event-18954401222)  (4 bugs, 4 accepted)
-- **buddy-mlir**: [issue #533](https://github.com/buddy-compiler/buddy-mlir/issues/533) [issue #520](https://github.com/buddy-compiler/buddy-mlir/issues/520) (3 bug reported, 1 accepted)
+- **buddy-mlir**: [issue #533](https://github.com/buddy-compiler/buddy-mlir/issues/533) [issue #520](https://github.com/buddy-compiler/buddy-mlir/issues/520) (3 bug reported, 3 accepted)
 - **CppKAI**: [issue #22](https://github.com/cschladetsch/CppKAI/issues/22)  (1 bug reported)
 - **amnezia-client**: [issue #1655](https://github.com/amnezia-vpn/amnezia-client/issues/1655)  (13 bugs reported)
 - **Socket**: [issue #26](https://github.com/kadirlua/Socket/issues/26)  (4 bugs reported, 4 accepted)
