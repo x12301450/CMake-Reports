@@ -27,7 +27,7 @@ The number following each link indicates how many of the related bugs we discove
 - **Socket**: [issue #26](https://github.com/kadirlua/Socket/issues/26)  (4 bugs reported, 4 accepted)
 - **ggwave**: [issue #161](https://github.com/ggerganov/ggwave/issues/161)   (1 bug reported)
 - **qaccordion**: [issue #8](https://github.com/crapp/qaccordion/issues/8)   (6 bugs reported)
-- **NFDecoder**: [issue #22](https://github.com/nativeformat/NFDecoder/issues/22)   (8 bugs reported)
+- **NFDecoder**: [issue #22](https://github.com/nativeformat/NFDecoder/issues/22) [issue #23](https://github.com/nativeformat/NFDecoder/issues/23)   (9 bugs reported)
 - **OpenCFD-AMR**: [issue #4](https://github.com/FR13ndSDP/OpenCFD-AMR/issues/4)   (1 bug reported)
 - **GDExtensionTemplate**: [issue #75](https://github.com/asmaloney/GDExtensionTemplate/issues/75)   (4 bugs reported)
 - **softwarecontainer**: [issue #437](https://github.com/Pelagicore/softwarecontainer/issues/437)  [issue #438](https://github.com/Pelagicore/softwarecontainer/issues/438) (8 bugs reported)
