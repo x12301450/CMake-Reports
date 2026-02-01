@@ -27,4 +27,4 @@ The number following each link indicates how many of the related bugs we discove
 - **Socket**: [issue #26](https://github.com/kadirlua/Socket/issues/26)  (4 bugs reported, 4 accepted)
 - **ggwave**: [issue #161](https://github.com/ggerganov/ggwave/issues/161)   (1 bug reported)
 - **OpenCFD-AMR**: [issue #4](https://github.com/FR13ndSDP/OpenCFD-AMR/issues/4)   (1 bug reported)
-- **Anonymous** (5 bug reported, 1 accepted) - It was accidentally submitted without anonymity.
+- **Anonymous** (5 bugs reported, 1 accepted) - It was accidentally submitted without anonymity.
