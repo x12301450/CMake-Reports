@@ -26,6 +26,8 @@ The number following each link indicates how many of the related bugs we discove
 - **amnezia-client**: [issue #1655](https://github.com/amnezia-vpn/amnezia-client/issues/1655)  (13 bugs reported)
 - **Socket**: [issue #26](https://github.com/kadirlua/Socket/issues/26)  (4 bugs reported, 4 accepted)
 - **ggwave**: [issue #161](https://github.com/ggerganov/ggwave/issues/161)   (1 bug reported)
+- **qaccordion**: [issue #8](https://github.com/crapp/qaccordion/issues/8)   (6 bugs reported)
+- **NFDecoder**: [issue #22](https://github.com/nativeformat/NFDecoder/issues/22)   (4 bugs reported)
 - **OpenCFD-AMR**: [issue #4](https://github.com/FR13ndSDP/OpenCFD-AMR/issues/4)   (1 bug reported)
 - **GDExtensionTemplate**: [issue #75](https://github.com/FR13ndSDP/OpenCFD-AMR/issues/4)   (4 bugs reported)
 - **Anonymous** (5 bugs reported, 1 accepted) - It was accidentally submitted without anonymity.
