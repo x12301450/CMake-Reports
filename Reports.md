@@ -13,7 +13,7 @@ The number following each link indicates how many of the related bugs we discove
 ## Reported Issues
 
 - **llvm-project**: [issue #146344](https://github.com/llvm/llvm-project/issues/146344#event-18791548191)   (1 bug reported, 1 accepted)
-- **orge**: [issue #3425](https://github.com/OGRECave/ogre/issues/3425)      (3 bugs reported, 3 accepted)
+- **orge**: [issue #3425](https://github.com/OGRECave/ogre/issues/3425) [issue #3578](https://github.com/OGRECave/ogre/issues/3578)     (4 bugs reported, 3 accepted)
 - **cling**: [issue #551](https://github.com/root-project/cling/issues/551#event-18439880924)   (2 bugs reported, 2 accepted)
 - **wl-mirror**: [issue #71](https://github.com/Ferdi265/wl-mirror/issues/71#issuecomment-2996149794)  (2 bugs reported, 2 accepted)
 - **visualboyadvance-m**: [issue #1474](https://github.com/visualboyadvance-m/visualboyadvance-m/issues/1474#event-18325324445)  (1 bug reported)
