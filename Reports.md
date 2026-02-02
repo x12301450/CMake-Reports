@@ -18,7 +18,7 @@ The number following each link indicates how many of the related bugs we discove
 - **wl-mirror**: [issue #71](https://github.com/Ferdi265/wl-mirror/issues/71#issuecomment-2996149794)  (2 bugs reported, 2 accepted)
 - **visualboyadvance-m**: [issue #1474](https://github.com/visualboyadvance-m/visualboyadvance-m/issues/1474#event-18325324445) [issue #1542](https://github.com/visualboyadvance-m/visualboyadvance-m/issues/1542) (4 bug reported)
 - **csp-fork**: [issue #15](https://github.com/Xibitol/csp-fork/issues/14#event-18382491806)   (1 bug reported, 1 accepted)
-- **root**: [issue #551](https://github.com/root-project/cling/issues/551#event-18439880924) [issue #21093](https://github.com/root-project/cling/issues/21093)  (6 bugs reported, 6 accepted)
+- **root**: [issue #551](https://github.com/root-project/cling/issues/551#event-18439880924) [issue #21093](https://github.com/root-project/cling/issues/21093)  (6 bugs reported, 2 accepted)
 - **ZenEngine**: [issue #1](https://github.com/proton991/ZenEngine/issues/1#event-18826218992)  (5 bugs reported)
 - **openssl-cmake**: [issue #23](https://github.com/viaduck/openssl-cmake/issues/23#event-18954401222)  (4 bugs, 4 accepted)
 - **buddy-mlir**: [issue #533](https://github.com/buddy-compiler/buddy-mlir/issues/533) [issue #520](https://github.com/buddy-compiler/buddy-mlir/issues/520) (3 bugs reported, 3 accepted)
